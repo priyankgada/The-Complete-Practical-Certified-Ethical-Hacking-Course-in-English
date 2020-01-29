@@ -3,12 +3,11 @@ Learn Ethical Hacking in English - Full CEH course - CEH v11 Courseware - CEH v1
 Full Details - https://www.youtube.com/watch?v=cHkI4l3lmnk&list=PLQzKQEJTLWfw_jmhCQ7ribMUkkAB8RMGi ( Check Playlists ) 
 In this course , We will be learning Ethical Hacking. We will setup three virtual labs and perform attacks like ARP spoofing, ARP poisioning, ARP injection, Man-in-the-middle attacks and many other attacks. We will also learn about VPN. We will also be learning about honeypots and how to work around with wireshark. This is the beginners course in Ethical Hacking.
 
-# Committed Changes
+# Get Full Access To The Course - 
 
-Update - 004-29Jan2020-01
-
-# Under Construction
---- New Course which will be released in March 2020 - Includes Metasploit
+1. Youtube Join Button - https://www.youtube.com/channel/UCeqkVpJr8nM_NRxQB3babhw/join
+2. Life Time Access - Udemy - https://www.udemy.com/course/the-certified-ethical-hacking-practical-expert-199courses/
+3. Life Time Access - Eduonix - https://www.eduonix.com/the-complete-practical-ethical-hacking-expert-199courses
 
 # Video Tutorials
 Course Advertisement - https://www.youtube.com/watch?v=cHkI4l3lmnk&list=PLQzKQEJTLWfw_jmhCQ7ribMUkkAB8RMGi&index=1
